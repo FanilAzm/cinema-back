@@ -1,7 +1,7 @@
 {
 	"version": 2,
 	"env": {
-		"MONGO_URI": "mongodb://127.0.0.1:27017/cinema-db"
+		"MONGO_URI": "./Insomnia/cinema-app-db.json"
 	},
 	"builds": [
 		{
