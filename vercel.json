@@ -1,7 +1,7 @@
 {
 	"version": 2,
 	"env": {
-		"MONGO_URI": "@cinema_api_mongo_uri"
+		"MONGO_URI": "./Insomnia/cinema-db.json"
 	},
 	"builds": [
 		{
