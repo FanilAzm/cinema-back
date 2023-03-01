@@ -17,6 +17,11 @@ out
 # production
 build
 /build
+dist
+/dist
+
+uploads
+/uploads
 
 # misc
 .DS_Store
